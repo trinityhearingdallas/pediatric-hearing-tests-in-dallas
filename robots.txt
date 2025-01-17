@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://trinityhearingdallas.github.io/pediatric-hearing-tests-in-dallas/sitemap.xml
